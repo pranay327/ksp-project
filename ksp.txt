@@ -1,5 +1,9 @@
-<h2>hello ksp how;j are you/<H2>
+software developement life cycle 
+most used tools in the devops
+we use jenkins its an contionus intigration tool 
+git is an version control system
+maven is an build automation tool
+selenium is an automation tool
+ansible is an configuration management tool 
+nagios is an monitoring tool which used to monitor the developemnt for feedback and improvement
 
-i hi hi hi hi hi hi hi h ih ih ih ihi
-hello hello
-solwareedit
